@@ -1,7 +1,9 @@
 # Healthy Care
 
+### Projeto final do treinamento interno da Avanade em .NET & Angular ministrado por Marcos Sabino e Guilherme Pereira.
 
-Organização destinada para o compartilhamento das atividades do treinamento da Avanade em .Net C# + Angular.
+> Desafio Proposto:
+Desenvolvimento de um sistema de agendamento de consultas médicas.
 
 **Members**
 
